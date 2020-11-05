@@ -1,0 +1,237 @@
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\appsettings.json
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\log4net.config
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.exe
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.deps.json
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.runtimeconfig.json
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.runtimeconfig.dev.json
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.pdb
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.AutoMapper.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.Castle.Log4Net.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.EntityFramework.Common.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.EntityFrameworkCore.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.Zero.Common.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.ZeroCore.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.ZeroCore.EntityFrameworkCore.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\AutoMapper.Collection.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Windsor.MsDependencyInjection.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\log4net.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Core.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Core.pdb
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.pdb
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll.config
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.csprojAssemblyReference.cache
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.AssemblyInfoInputs.cache
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.AssemblyInfo.cs
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.csproj.CoreCompileInputs.cache
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.csproj.CopyComplete
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.pdb
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.genruntimeconfig.cache
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\log4net.config
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.exe
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.deps.json
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.runtimeconfig.json
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.runtimeconfig.dev.json
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.pdb
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.AutoMapper.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.Castle.Log4Net.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.EntityFramework.Common.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.EntityFrameworkCore.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.Zero.Common.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.ZeroCore.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.ZeroCore.EntityFrameworkCore.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\AutoMapper.Collection.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Windsor.MsDependencyInjection.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Core.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Core.pdb
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.pdb
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll.config
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.csprojAssemblyReference.cache
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.csproj.CoreCompileInputs.cache
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.AssemblyInfoInputs.cache
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.AssemblyInfo.cs
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.csproj.CopyComplete
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.pdb
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.genruntimeconfig.cache
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\appsettings.json
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\log4net.config
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.exe
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.deps.json
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.runtimeconfig.json
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.runtimeconfig.dev.json
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Migrator.pdb
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.AutoMapper.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.Castle.Log4Net.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.EntityFramework.Common.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.EntityFrameworkCore.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.Zero.Common.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.ZeroCore.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Abp.ZeroCore.EntityFrameworkCore.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\AutoMapper.Collection.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Core.AsyncInterceptor.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Facilities.Logging.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Windsor.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Castle.Windsor.MsDependencyInjection.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\log4net.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Context.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Coordination.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.AsyncEx.Tasks.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.Collections.Deque.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Nito.Disposables.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\TimeZoneConverter.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Core.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.Core.pdb
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.pdb
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll.config
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.csprojAssemblyReference.cache
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.AssemblyInfoInputs.cache
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.AssemblyInfo.cs
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.csproj.CoreCompileInputs.cache
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.csproj.CopyComplete
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.pdb
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Migrator\obj\Debug\netcoreapp3.1\Wajeeh.Migrator.genruntimeconfig.cache

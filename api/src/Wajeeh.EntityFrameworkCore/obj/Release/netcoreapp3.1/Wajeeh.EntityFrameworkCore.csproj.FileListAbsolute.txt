@@ -1,0 +1,34 @@
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll.config
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.deps.json
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.runtimeconfig.json
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.runtimeconfig.dev.json
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.pdb
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.Core.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.Core.pdb
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.csprojAssemblyReference.cache
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll.config
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.AssemblyInfo.cs
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.csproj.CopyComplete
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.pdb
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.genruntimeconfig.cache
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll.config
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.deps.json
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.runtimeconfig.json
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.runtimeconfig.dev.json
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.pdb
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.Core.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\bin\Release\netcoreapp3.1\Wajeeh.Core.pdb
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.csprojAssemblyReference.cache
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll.config
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.AssemblyInfo.cs
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.csproj.CopyComplete
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.pdb
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\obj\Release\netcoreapp3.1\Wajeeh.EntityFrameworkCore.genruntimeconfig.cache

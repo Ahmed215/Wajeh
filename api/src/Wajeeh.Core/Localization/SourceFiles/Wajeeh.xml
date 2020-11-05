@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="en">
+  <texts>
+    <text name="HomePage" value="Home page" />
+    <text name="About" value="About" />
+    <text name="WelcomeMessage" value="Welcome to Wajeeh!" />
+    <text name="FormIsNotValidMessage" value="Form is not valid. Please check and fix errors." />
+    <text name="TenantNameCanNotBeEmpty" value="Tenant name can not be empty" />
+    <text name="InvalidUserNameOrPassword" value="Invalid user name or password" />
+    <text name="ThereIsNoTenantDefinedWithName{0}" value="There is no tenant defined with name {0}" />
+    <text name="TenantIsNotActive" value="Tenant {0} is not active." />
+    <text name="UserIsNotActiveAndCanNotLogin" value="User {0} is not active and can not log in." />
+    <text name="UserEmailIsNotConfirmedAndCanNotLogin">Your email address is not confirmed. You can not login.</text>
+    <text name="UserLockedOutMessage">The user account has been locked out. Please try again later.</text>
+    <text name="PleaseEnterLoginInformation" value="Please enter login information" />
+    <text name="TenancyName" value="Tenancy name" />
+    <text name="UserNameOrEmail" value="User name or email" />
+    <text name="Password" value="Password" />
+    <text name="vechileType" value="vechile Type" />
+    <text name="ResetPassword" value="Reset Password" />
+    <text name="UpdatePassword" value="Update Password" />
+    <text name="InvalidMobileFormatting" value="Invalid Mobile Formatting" />
+    <text name="PhoneNumbermustbecharacters" value="Phone Number must be {0} Character" />
+    <text name="MobileNumberIsRequired" value="Mobile Number Is Required" />
+    <text name="RememberMe" value="Remember me" />
+    <text name="LogIn" value="Log in" />
+    <text name="LoginFailed" value="Login failed!" />
+    <text name="NameSurname" value="Name surname" />
+    <text name="UserName" value="User name" />
+    <text name="Name" value="Name" />
+    <text name="Surname" value="Surname" />
+    <text name="EmailAddress" value="Email address" />
+    <text name="Tenants" value="Tenants" />
+    <text name="SavedSuccessfully" value="Saved successfully" />
+    <text name="CreateNewTenant" value="Create new tenant" />
+    <text name="AdminEmailAddress" value="Admin email address" />
+    <text name="AdminPassword" value="Admin password" />
+    <text name="Save" value="Save" />
+    <text name="Cancel" value="Cancel" />
+    <text name="TenantName_Regex_Description" value="Tenant name must be at least 2 chars, starts with a letter and continue with letter, number, dash or underscore." />
+    <text name="DefaultPasswordIs" value="Default password is {0}" />
+    <text name="CanBeEmptyToLoginAsHost" value="Can be empty to login as host." />
+    <text name="Register" value="Register" />
+    <text name="OrLoginWith" value="Or login with" />
+    <text name="WaitingForActivationMessage" value="Your account is waiting to be activated by system admin." />
+    <text name="TenantSelection" value="Tenant Selection" />
+    <text name="TenantSelection_Detail" value="Please select one of the following tenants." />
+    <text name="Logout" value="Logout" />
+    <text name="RegisterFormUserNameInvalidMessage">Please don't enter an email address for username.</text>
+    <text name="DatabaseConnectionString" value="Database connection string" />
+    <text name="Users" value="Users" />
+    <text name="IsActive" value="Is active" />
+    <text name="FullName" value="Full name" />
+    <text name="CreateNewUser" value="Create new user" />
+    <text name="Yes" value="Yes" />
+    <text name="No" value="No" />
+    <text name="Optional" value="Optional" />
+    <text name="LeaveEmptyToSwitchToHost">Leave empty to switch to the host</text>
+    <text name="CurrentTenant">Current tenant</text>
+    <text name="NotSelected">Not selected</text>
+    <text name="Change">Change</text>
+    <text name="ChangeTenant">Change tenant</text>
+    <text name="MultiLevelMenu">Multi Level Menu</text>
+    <text name="Back">Back</text>
+    <text name="SuccessfullyRegistered">Successfully registered</text>
+    <text name="WaitingForEmailActivation">Your email address should be activated</text>
+    <text name="Roles">Roles</text>
+    <text name="DisplayName">Display Name</text>
+    <text name="Edit">Edit</text>
+    <text name="Delete">Delete</text>
+    <text name="CreateNewRole">Create new role</text>
+    <text name="RoleName">Role Name</text>
+    <text name="Actions">Actions</text>
+    <text name="CouldNotCompleteLoginOperation">Could not complete login operation. Please try again later.</text>
+    <text name="CouldNotValidateExternalUser">Could not validate external user</text>
+    <text name="EditRole">Edit role</text>
+    <text name="EditTenant">Edit tenant</text>
+    <text name="EditUser">Edit user</text>
+    <text name="TenantIdIsNotActive{0}">TenantId {0} is not active</text>
+    <text name="UnknownTenantId{0}">Unknown tenantId {0}</text>
+    <text name="langLat ">Coordinators</text>
+    <text name="ThisFieldIsRequired">This field is required</text>
+    <text name="PleaseWait">Please wait...</text>
+    <text name="Administration">Administration</text>
+    <text name="ClearAll">Clear all</text>
+    <text name="ClearOthers">Clear others</text>
+    <text name="LabelOptions">Label options</text>
+    <text name="Permissions">Permissions</text>
+    <text name="RoleDescription">Role description</text>
+    <text name="Refresh">Refresh</text>
+    <text name="Create">Create</text>
+    <text name="UserDetails">User details</text>
+    <text name="UserRoles">User roles</text>
+    <text name="ConfirmPassword">Confirm password</text>
+    <text name="Version">Version</text>
+    <text name="On">On</text>
+    <text name="Off">Off</text>
+    <text name="AreYouSureWantToDelete">Are you sure want to delete {0}?</text>
+    <text name="SuccessfullyDeleted">Successfully deleted</text>
+    <text name="StartTyping">Start Typing</text>
+    <text name="Skins">Skins</text>
+    <text name="Settings">Settings</text>
+    <text name="Filter">Filter</text>
+    <text name="CurrentPassword">Current Password</text>
+    <text name="NewPassword">New Password</text>
+    <text name="ConfirmNewPassword">Confirm New Password</text>
+    <text name="PasswordsDoNotMatch">Passwords do not match</text>
+    <text name="PasswordsMustBeAtLeast8CharactersContainLowercaseUppercaseNumber">Passwords must be at least 8 characters, contain a lowercase, uppercase, and number</text>
+    <text name="UserDeleteWarningMessage">User {0} will be deleted.</text>
+    <text name="RoleDeleteWarningMessage">Role {0} will be deleted and unassigned from all assigned users.</text>
+    <text name="TenantDeleteWarningMessage">Tenant {0} will be deleted.</text>
+    <text name="SearchWithThreeDot">Search...</text>
+    <text name="DeleteConfirmation">Are you sure you want to delete this record?</text>
+    <text name="SystemNotification">System Notification</text>
+    <text name="CannotCancel">Cannot Cancel this record</text>
+    <text name="CancelSuccessfully">Cancel Operation for the record {0} Done Successfully</text>
+    <text name="OffDuty">Off Duty?</text>
+    <text name="Plate">Plate Number</text>
+    <text name="PlateType">Plate Type</text>
+    <text name="SequenceNumber">Sequence Number</text>
+    <text name="AddVechicle">Add Vechicle</text>
+    <text name="IdentityNumber">رقم الهوية</text>
+    <text name="DateOfBirthGregorian">تاريخ الميلاد ميلادي</text>
+    <text name="MobileNumber">رقم الجوال</text>
+
+
+
+    <text name="search">Search</text>
+    <text name="Reset">Reset</text>
+    <text name="Apply">Apply</text>
+    <text name="Send">Send</text>
+    <text name="AddPicture">Add Picture</text>
+
+    <text name="ThisFieldRequired">This Field is Required</text>
+
+
+    <text name="From">From</text>
+    <text name="To">To</text>
+    <text name="Show">Show</text>
+    <text name="Entry">Entry</text>
+    <text name="FilteredFrom">Filtered From</text>
+    <text name="Total">Total</text>
+    <text name="TheNumberOfLinesPerPage">The Number Of Lines PerPage</text>
+    <text name="Filters">Filters</text>
+
+    <text name="Id">ID</text>
+    <text name="ReservatiobId">ID</text>
+    <text name="firstName">First Name</text>
+    <text name="lastName">Last Name</text>
+    <text name="fullName">Full Name</text>
+    <text name="email">Email</text>
+    <text name="phone">Phone Number</text>
+    <text name="vehicleType">Vehicle Type</text>
+    <text name="DriverStatusActive">Driver Status Active</text>
+    <text name="name">English Name</text>
+    <text name="nameAr">Arabic Name</text>
+    <text name="NameAr">Arabic Name</text>
+    <text name="Description">Description</text>
+    <text name="description">English Description</text>
+    <text name="descriptionAr">Arabic Description</text>
+    <text name="arrivalDateTime">Arrival Date</text>
+    <text name="paymentWay">Payment Way</text>
+    <text name="notes">notes</text>
+    <text name="startingPoint">Starting Point </text>
+    <text name="endingPoint">Ending Point</text>
+    <text name="stratingPointTitle">Strating Point Title</text>
+    <text name="endingPointTitle">Ending Point Title</text>
+    <text name="stratingPointAdress">Strating Point Address</text>
+    <text name="endingPointAdress">Ending Point Address</text>
+    <text name="title">Title </text>
+    <text name="address">Address Details</text>
+
+
+
+    <text name="Drivers">Drivers</text>
+    <text name="DriverData">Driver Data</text>
+    <text name="Categories">Categories</text>
+    <text name="SubCategories">Sub Categories</text>
+    <text name="Category">Category</text>
+    <text name="SubCategory">Sub Category</text>
+    <text name="Customers">Customers</text>
+    <text name="Companies">Companies</text>
+    <text name="Company">Company</text>
+    <text name="Reservations">Reservations</text>
+    <text name="CustomerAddresses">Customer Addresses</text>
+    <text name="CompanyClients">Company Clients</text>
+
+
+    <text name="CustomersList">Customers List</text>
+    <text name="DriversList">Drivers List</text>
+    <text name="CompaniesList">Companies List</text>
+    <text name="CategoriesList">Categories List</text>
+    <text name="SubCategoriesList">Sub Categories List</text>
+    <text name="ReservationsList">Reservations List</text>
+    <text name="CustomerAddressesList">Customer Addresses List</text>
+    <text name="CompanyClientsList">Company Clients List</text>
+
+
+
+    <text name="AddCompany">Add Company</text>
+    <text name="AddReservation">Add Reservation</text>
+    <text name="AddCategory">Add Category</text>
+    <text name="AddSubCategory">Add Sub Category</text>
+    <text name="AddCompanyClient">Add Client</text>
+
+
+    <text name="UpdateCustomer">Update Customer</text>
+    <text name="UpdateDriver">Update Driver</text>
+    <text name="UpdateCategory">Update Category</text>
+    <text name="UpdateSubCategory">Update Sub Category</text>
+    <text name="UpdateReservation">Update Reservation</text>
+    <text name="UpdateCustomerAddress">Update Customer Address</text>
+    <text name="UpdateCompanyClient">Update Client</text>
+
+    <text name="CustomerDetails">Customer Details</text>
+    <text name="DriverDetails">Driver Details</text>
+    <text name="CategoryDetails">Category Details</text>
+    <text name="ReservationDetails">Reservation Details</text>
+    <text name="CustomerAddressDetails">Customer Address Details</text>
+    <text name="CompanyClientDetails">Company Client Details</text>
+    <text name="SubCategoryDetails">Sub Category Details</text>
+    <text name="Fieldsmarkedwithasteriskaremandatory">Fields marked with asterisk are mandatory</text>
+
+    <text name="Chat">Chat</text>
+    <text name="Attachments">Attachments</text>
+    <text name="categories">categories</text>
+    <text name="Resrveations">Resrveations</text>
+    <text name="Writeyourmessage">Write your message...</text>
+    <text name="vechiles">vechiles</text>
+    <text name="waselVechiles">wasel Vechiles</text>
+    <text name="waselDrivers">wasel Drivers</text>
+    <text name="usersAndRoles">Users And Roles</text>
+    <text name="CreateCustomer">Create Customer</text>
+    <text name="AddCustomer">Create Customer</text>
+    <text name="AddDriver">Add Driver</text>
+    <text name="EditeDriver">Edite Driver</text>
+    <text name="IsAdmin">IsAdmin</text>
+    <text name="Status">Status</text>
+    <text name="AddVechile">Add Vechile</text>
+    <text name="RegisterDriver">Register Driver</text>
+    <text name="TripNotRegistred">Trip Not Registred</text>
+    <text name="TripRegistred">Trip Registred</text>
+    <text name="RegReservation">Register Reservation</text>
+    <text name="EndReservation">End tracking Reservation</text>
+    <text name="waselDriversList">wasel Drivers List</text>
+    <text name="VechileList">Vechile List</text>
+    <text name="Vechiles">Vechiles</text>
+    <text name="DeliveryCost">Delivery Cost</text>
+    <text name="Current">Current</text>
+    <text name="Schedule">Schedule</text>
+    <text name="Previous">Previous</text>
+    <text name="Cancelled">Cancelled</text>
+    <text name="ChoosePoint">Current Location</text>
+    <text name="Directions">Directions</text>
+    <text name="VehicleSequenceNumber">Vehicle Sequence Number</text>
+    <text name="DriverIdentityNumber">Driver Identity Number</text>
+    <text name="Next">Next</text>
+    <text name="vechileDetails">Vechile Details</text>
+    <text name="waselDriverDetails">Wasel Driver Details</text>
+    <text name="DateOfBirthHijri">Date Of Birth Hijri</text>
+    <text name="SubcategoryList">Subcategory List</text>
+    <text name="CompanyDetails">Company Details</text>
+    <text name="UpdateCampany">Update Campany</text>
+    <text name="Dashboard">Dashboard</text>
+
+    <text name="CreationTime">Creation Time</text>
+
+    <text name="VEHICLE_NOT_FOUND">Vehicle not found</text>
+    <text name="VEHICLE_PLATE_TYPE_NOT_ALLOWED">Vehicle plate type not allowed</text>
+    <text name="VEHICLE_NOT_TRACKED">Vehicle is not being tracked by a tracking company</text>
+    <text name="VEHICLE_NOT_ELIGIBLE">Vehicle is not eligible</text>
+    <text name="DUPLICATE_VEHICLE">Vehicle is already registered</text>
+    <text name="DRIVER_NOT_FOUND">Driver not found</text>
+    <text name="NO_ALLOWED_DRIVING_LICENSE_FOUND">Driver license type is not allowed</text>
+    <text name="LL_ALLOWED_DRIVING_LICENSES_EXPIRED">Driver license has expired</text>
+    <text name="DUPLICATE_DRIVER">Driver is already registered</text>
+    <text name="DUPLICATE_TRIP">Trip is already registered</text>
+    <text name="TRIP_NOT_FOUND">Trip not found</text>
+    <text name="TRIP_ALREADY_ENDED">Trip has ended already</text>
+    <text name="VEHICLE_NOT_INSURED">Vehicle has no insurance</text>
+    <text name="VEHICLE_INSURANCE_EXPIRED">Vehicle insurance has expired</text>
+    <text name="VEHICLE_LICENSE_EXPIRED">Vehicle license has expired</text>
+    <text name="ALIEN_NOT_LEGAL">Driver legal status is not valid</text>
+    <text name="Reports">Reports</text>
+    <text name="TopClients">Top Clients</text>
+    <text name="TopDrivers">Top Drivers</text>
+    <text name="requestsCount">Requests Count</text>
+    <text name="customerName">Customer Name</text>
+    <text name="reservationTo">Reservation To</text>
+    <text name="reservationFrom">Reservation From</text> 
+    <text name="ValueAdded">Value Added</text>
+    <text name="total">Total</text>
+    <text name="bill">Bill</text>
+    <text name="status">Status</text>
+    <text name="DriverName">Driver Name</text>
+    <text name="creationTime">Creation Time</text>
+    <text name="view">View</text>
+
+    <text name="VAT">VAT</text>
+    <text name="VATAmount">VAT Amount</text>
+    <text name="Net">Net</text>
+
+
+    <text name="new">New</text>
+    <text name="priceDisplayed">Price Displayed</text>
+    <text name="canceledDone">Canceled Done</text>
+    <text name="deliveredHanded">Delivered Handed</text>
+    <text name="report">Report</text>
+    <text name="state">Choose State</text>
+
+    <text name="NotOffered">Not Offered</text>
+    <text name="Offered">Offered</text>
+    <text name="AcceptedOffer">Accepted Offer</text>
+    <text name="FinishedOffer">Finished Offer</text>
+    <text name="CanceledOffer">Canceled Offer</text>
+
+  </texts>
+</localizationDictionary>

@@ -1,0 +1,27 @@
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Core\bin\Debug\netcoreapp3.1\Wajeeh.Core.deps.json
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Core\bin\Debug\netcoreapp3.1\Wajeeh.Core.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Core\bin\Debug\netcoreapp3.1\Wajeeh.Core.pdb
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.csprojAssemblyReference.cache
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.AssemblyInfoInputs.cache
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.AssemblyInfo.cs
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.csproj.CoreCompileInputs.cache
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.dll
+D:\wajeeh\UpClicksApps\api\Wajeeh\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.pdb
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Core\bin\Debug\netcoreapp3.1\Wajeeh.Core.deps.json
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Core\bin\Debug\netcoreapp3.1\Wajeeh.Core.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Core\bin\Debug\netcoreapp3.1\Wajeeh.Core.pdb
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.csprojAssemblyReference.cache
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.csproj.CoreCompileInputs.cache
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.AssemblyInfoInputs.cache
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.AssemblyInfo.cs
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.dll
+D:\Asp.net Boilerplate Projects\Wajeh Project\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.pdb
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Core\bin\Debug\netcoreapp3.1\Wajeeh.Core.deps.json
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Core\bin\Debug\netcoreapp3.1\Wajeeh.Core.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Core\bin\Debug\netcoreapp3.1\Wajeeh.Core.pdb
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.csprojAssemblyReference.cache
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.AssemblyInfoInputs.cache
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.AssemblyInfo.cs
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.csproj.CoreCompileInputs.cache
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.dll
+D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.pdb
