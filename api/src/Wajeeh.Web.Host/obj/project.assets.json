@@ -3539,7 +3539,10 @@
         },
         "runtime": {
           "bin/placeholder/Wajeeh.Core.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "Wajeeh.EntityFrameworkCore/1.0.0": {
         "type": "project",

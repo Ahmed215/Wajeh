@@ -2568,10 +2568,7 @@
         },
         "runtime": {
           "bin/placeholder/Wajeeh.Core.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
