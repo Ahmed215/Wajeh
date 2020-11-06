@@ -1249,9 +1249,9 @@ D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Web.Host\obj\Debug\netcoreapp3.1\Wajeeh.Web
 D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Web.Host\bin\Debug\netcoreapp3.1\app.config
 D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Web.Host\bin\Debug\netcoreapp3.1\log4net.config
 D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Web.Host\bin\Debug\netcoreapp3.1\web.config
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Web.Host\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Web.Host\bin\Debug\netcoreapp3.1\appsettings.Staging.json
 D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Web.Host\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Web.Host\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Web.Host\bin\Debug\netcoreapp3.1\Wajeeh.Web.Host.exe
 D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Web.Host\bin\Debug\netcoreapp3.1\wwwroot\swagger\ui\index.html
 D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Web.Host\bin\Debug\netcoreapp3.1\Dockerfile

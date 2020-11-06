@@ -25,6 +25,8 @@ using Wajeeh.DriverJoinRequests;
 using Wajeeh.OfferPriceStatus;
 using Wajeeh.RequestStatus;
 using Wajeeh.PlateTypes;
+using Wajeeh.TrackingTrips;
+using Wajeeh.Coupons;
 
 namespace Wajeeh.EntityFrameworkCore
 {
@@ -54,6 +56,9 @@ namespace Wajeeh.EntityFrameworkCore
         public virtual DbSet<OfferPriceState> OfferPriceStatus { get; set; }
         public virtual DbSet<RequestState> RequestStatus { get; set; }
         public virtual DbSet<PlateType> PlateTypes { get; set; }
+        //
+        //public virtual DbSet<TrackingTrip> TrackingTrips { get; set; }
+        public virtual DbSet<Coupon> Coupons { get; set; }
 
 
         public WajeehDbContext(DbContextOptions<WajeehDbContext> options)

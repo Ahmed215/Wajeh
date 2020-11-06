@@ -7061,3 +7061,683 @@ INFO  2020-11-06 15:59:36,200 [24   ] c.Infrastructure.ControllerActionInvoker -
 INFO  2020-11-06 15:59:36,206 [24   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host)'
 INFO  2020-11-06 15:59:36,211 [24   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 246.2462ms 200 application/json; charset=utf-8
 INFO  2020-11-06 15:59:36,349 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 249.5417ms 200 application/json;charset=utf-8
+DEBUG 2020-11-06 16:13:24,928 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-11-06 16:13:25,476 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2020-11-06 16:13:25,530 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.Web.Host.Startup.WajeehWebHostModule, Wajeeh.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,535 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehWebCoreModule, Wajeeh.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,537 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehApplicationModule, Wajeeh.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,539 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehCoreModule, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,540 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,541 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,542 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,543 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,544 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.EntityFrameworkCore.WajeehEntityFrameworkModule, Wajeeh.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,545 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,545 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,546 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,547 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,548 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,548 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:25,564 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2020-11-06 16:13:25,755 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:13:25,755 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:13:25,756 [1    ] o.Configuration.LanguageManagementConfig - Converted Wajeeh (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:13:25,756 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:13:26,743 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Wajeeh.EntityFrameworkCore.WajeehDbContext, Wajeeh.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:13:29,644 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-11-06 16:13:29,729 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-11-06 16:13:29,757 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-11-06 16:13:29,774 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wajeeh
+DEBUG 2020-11-06 16:13:29,786 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-11-06 16:13:30,430 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-11-06 16:13:30,816 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[Wajeeh.MultiTenancy.Tenant, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Wajeeh.Authorization.Users.User, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-11-06 16:13:30,932 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 76 classes define auto mapping attributes
+DEBUG 2020-11-06 16:13:30,932 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2020-11-06 16:13:30,945 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.CreateUserByPhoneDto
+DEBUG 2020-11-06 16:13:30,946 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.CreateUserDto
+DEBUG 2020-11-06 16:13:30,947 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.UserDto
+DEBUG 2020-11-06 16:13:30,947 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.CreateSubcategoryDto
+DEBUG 2020-11-06 16:13:30,948 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.SubcategoryDto
+DEBUG 2020-11-06 16:13:30,949 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.UpdateSubcategoryDto
+DEBUG 2020-11-06 16:13:30,949 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2020-11-06 16:13:30,949 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Sessions.Dto.UserLoginInfoDto
+DEBUG 2020-11-06 16:13:30,949 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Roles.Dto.PermissionDto
+DEBUG 2020-11-06 16:13:30,949 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.CreateRequestDto
+DEBUG 2020-11-06 16:13:30,950 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.RequestDto
+DEBUG 2020-11-06 16:13:30,950 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.UpdateRquestDto
+DEBUG 2020-11-06 16:13:30,950 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.CreateRequestStateDto
+DEBUG 2020-11-06 16:13:30,950 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.RequestStateDto
+DEBUG 2020-11-06 16:13:30,951 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.UpdateRequestStateDto
+DEBUG 2020-11-06 16:13:30,951 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.CreatePlateTypeDto
+DEBUG 2020-11-06 16:13:30,951 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.PlateTypeDto
+DEBUG 2020-11-06 16:13:30,951 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.UpdatePlateTypeDto
+DEBUG 2020-11-06 16:13:30,951 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.CreateOfferPriceDto
+DEBUG 2020-11-06 16:13:30,951 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.OfferPriceDto
+DEBUG 2020-11-06 16:13:30,952 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.UpdateOfferPriceDto
+DEBUG 2020-11-06 16:13:30,952 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.CreateOfferPriceStatusDto
+DEBUG 2020-11-06 16:13:30,952 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.OfferPriceStatusDto
+DEBUG 2020-11-06 16:13:30,952 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.UpdateOfferPriceStatusDto
+DEBUG 2020-11-06 16:13:30,953 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2020-11-06 16:13:30,953 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.MultiTenancy.Dto.TenantDto
+DEBUG 2020-11-06 16:13:30,953 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.CreateDriverDto
+DEBUG 2020-11-06 16:13:30,953 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.DriverDto
+DEBUG 2020-11-06 16:13:30,953 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.UpdateDriverDto
+DEBUG 2020-11-06 16:13:30,953 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.ClientDto
+DEBUG 2020-11-06 16:13:30,954 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.CreateClientDto
+DEBUG 2020-11-06 16:13:30,954 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.UpdateClientDto
+DEBUG 2020-11-06 16:13:30,954 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.ClientAdressDto
+DEBUG 2020-11-06 16:13:30,954 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.CreateClientAdressDto
+DEBUG 2020-11-06 16:13:30,954 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.UpdateClientAdressDto
+DEBUG 2020-11-06 16:13:30,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.CategoryDto
+DEBUG 2020-11-06 16:13:30,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.CreateCategoryDto
+DEBUG 2020-11-06 16:13:30,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.UpdateCategoryDto
+DEBUG 2020-11-06 16:13:30,955 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminCreateWaselDriverDto
+DEBUG 2020-11-06 16:13:30,956 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminUpdateWaselDriverDto
+DEBUG 2020-11-06 16:13:30,956 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminWaselDriverDto
+DEBUG 2020-11-06 16:13:30,956 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.AdminVechileDto
+DEBUG 2020-11-06 16:13:30,956 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.CreateAdminVechileDto
+DEBUG 2020-11-06 16:13:30,956 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.UpdateAdminVechileDto
+DEBUG 2020-11-06 16:13:30,956 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminCreateSubcategoryDto
+DEBUG 2020-11-06 16:13:30,956 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminPagedSubcategoryResultRequestDto
+DEBUG 2020-11-06 16:13:30,957 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminSubcategoryDto
+DEBUG 2020-11-06 16:13:30,957 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminUpdateSubcategoryDto
+DEBUG 2020-11-06 16:13:30,957 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminCreateRequestDto
+DEBUG 2020-11-06 16:13:30,957 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminRequestDto
+DEBUG 2020-11-06 16:13:30,957 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminUpdateRquestDto
+DEBUG 2020-11-06 16:13:30,957 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminCreateOfferPriceDto
+DEBUG 2020-11-06 16:13:30,958 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminOfferPriceDto
+DEBUG 2020-11-06 16:13:30,958 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminUpdateOfferPriceDto
+DEBUG 2020-11-06 16:13:30,958 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminCreateDriverDto
+DEBUG 2020-11-06 16:13:30,958 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminDriverDto
+DEBUG 2020-11-06 16:13:30,958 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminUpdateDriverDto
+DEBUG 2020-11-06 16:13:30,958 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.AdminCreateDriverJoinRequestDto
+DEBUG 2020-11-06 16:13:30,959 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.AdminUpdateDriverJoinRequestDto
+DEBUG 2020-11-06 16:13:30,959 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.DriverJoinRequestDto
+DEBUG 2020-11-06 16:13:30,959 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminCompanyClientDto
+DEBUG 2020-11-06 16:13:30,959 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminCreateCompanyClientDto
+DEBUG 2020-11-06 16:13:30,959 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminUpdateCompanyClientDto
+DEBUG 2020-11-06 16:13:30,959 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.CompanyDto
+DEBUG 2020-11-06 16:13:30,960 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.CreateCompanyDto
+DEBUG 2020-11-06 16:13:30,960 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.UpdateCompanyDto
+DEBUG 2020-11-06 16:13:30,960 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminClientDto
+DEBUG 2020-11-06 16:13:30,960 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminCreateClientDto
+DEBUG 2020-11-06 16:13:30,960 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminUpdateClientDto
+DEBUG 2020-11-06 16:13:30,960 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminClientAdressDto
+DEBUG 2020-11-06 16:13:30,960 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminCreateClientAdressDto
+DEBUG 2020-11-06 16:13:30,961 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminUpdateClientAdressDto
+DEBUG 2020-11-06 16:13:30,961 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminCategoryDto
+DEBUG 2020-11-06 16:13:30,961 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminCreateCategoryDto
+DEBUG 2020-11-06 16:13:30,961 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminUpdateCategoryDto
+INFO  2020-11-06 16:13:36,424 [1    ] tCore.Builder.RequestLocalizationOptions - Supported Request Localization Cultures: en,es-MX,fr,de,it,nl,pt-BR,tr,ru,ar-EG,ar,ja,zh-Hans
+INFO  2020-11-06 16:13:37,050 [1    ] taProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\Moonlight\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+INFO  2020-11-06 16:13:37,209 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2020-11-06 16:13:37,398 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:13:45,530 [5    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Wajeeh.Web.Host.Controllers.HomeController (Wajeeh.Web.Host).
+INFO  2020-11-06 16:13:47,899 [5    ] c.Infrastructure.ControllerActionInvoker - Executing action method Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host) - Validation state: Valid
+INFO  2020-11-06 16:13:47,910 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action method Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 0.5922ms.
+INFO  2020-11-06 16:13:48,398 [10   ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2020-11-06 16:13:48,412 [10   ] c.Infrastructure.ControllerActionInvoker - Executed action Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host) in 2871.0445ms
+INFO  2020-11-06 16:13:48,418 [10   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:13:48,457 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2020-11-06 16:13:48,462 [10   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 11250.833ms 302 
+INFO  2020-11-06 16:13:48,766 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 308.434ms 200 text/html;charset=utf-8
+INFO  2020-11-06 16:13:49,063 [7    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AntiForgery/SetCookie  
+INFO  2020-11-06 16:13:49,160 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2020-11-06 16:13:49,277 [4    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2020-11-06 16:13:49,277 [7    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2020-11-06 16:13:49,459 [4    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:13:49,482 [4    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "SetCookie", controller = "AntiForgery", area = ""}. Executing controller action with signature Void SetCookie() on controller Wajeeh.Web.Host.Controllers.AntiForgeryController (Wajeeh.Web.Host).
+INFO  2020-11-06 16:13:49,616 [4    ] c.Infrastructure.ControllerActionInvoker - Executing action method Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host) - Validation state: Valid
+INFO  2020-11-06 16:13:49,646 [4    ] c.Infrastructure.ControllerActionInvoker - Executed action method Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 24.8494ms.
+INFO  2020-11-06 16:13:49,679 [7    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-11-06 16:13:49,718 [7    ] c.Infrastructure.ControllerActionInvoker - Executed action Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host) in 229.256ms
+INFO  2020-11-06 16:13:49,723 [7    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:13:49,729 [7    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 666.6081ms 200 application/json; charset=utf-8
+INFO  2020-11-06 16:13:50,302 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1140.0339ms 200 application/json;charset=utf-8
+DEBUG 2020-11-06 16:20:46,736 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-11-06 16:20:47,840 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2020-11-06 16:20:47,867 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.Web.Host.Startup.WajeehWebHostModule, Wajeeh.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,871 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehWebCoreModule, Wajeeh.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,872 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehApplicationModule, Wajeeh.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,872 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehCoreModule, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,873 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,873 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,874 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,875 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,875 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.EntityFrameworkCore.WajeehEntityFrameworkModule, Wajeeh.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,876 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,876 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,877 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,877 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,878 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,878 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:47,882 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2020-11-06 16:20:48,248 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:20:48,248 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:20:48,248 [1    ] o.Configuration.LanguageManagementConfig - Converted Wajeeh (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:20:48,248 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:20:49,281 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Wajeeh.EntityFrameworkCore.WajeehDbContext, Wajeeh.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:20:51,615 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-11-06 16:20:51,723 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-11-06 16:20:51,745 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-11-06 16:20:51,765 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wajeeh
+DEBUG 2020-11-06 16:20:51,777 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-11-06 16:20:52,335 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-11-06 16:20:52,707 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[Wajeeh.MultiTenancy.Tenant, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Wajeeh.Authorization.Users.User, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-11-06 16:20:52,830 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 76 classes define auto mapping attributes
+DEBUG 2020-11-06 16:20:52,830 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2020-11-06 16:20:52,842 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.CreateUserByPhoneDto
+DEBUG 2020-11-06 16:20:52,843 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.CreateUserDto
+DEBUG 2020-11-06 16:20:52,843 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.UserDto
+DEBUG 2020-11-06 16:20:52,844 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.CreateSubcategoryDto
+DEBUG 2020-11-06 16:20:52,845 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.SubcategoryDto
+DEBUG 2020-11-06 16:20:52,845 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.UpdateSubcategoryDto
+DEBUG 2020-11-06 16:20:52,845 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2020-11-06 16:20:52,846 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Sessions.Dto.UserLoginInfoDto
+DEBUG 2020-11-06 16:20:52,846 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Roles.Dto.PermissionDto
+DEBUG 2020-11-06 16:20:52,846 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.CreateRequestDto
+DEBUG 2020-11-06 16:20:52,846 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.RequestDto
+DEBUG 2020-11-06 16:20:52,846 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.UpdateRquestDto
+DEBUG 2020-11-06 16:20:52,847 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.CreateRequestStateDto
+DEBUG 2020-11-06 16:20:52,847 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.RequestStateDto
+DEBUG 2020-11-06 16:20:52,847 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.UpdateRequestStateDto
+DEBUG 2020-11-06 16:20:52,847 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.CreatePlateTypeDto
+DEBUG 2020-11-06 16:20:52,847 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.PlateTypeDto
+DEBUG 2020-11-06 16:20:52,848 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.UpdatePlateTypeDto
+DEBUG 2020-11-06 16:20:52,848 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.CreateOfferPriceDto
+DEBUG 2020-11-06 16:20:52,848 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.OfferPriceDto
+DEBUG 2020-11-06 16:20:52,848 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.UpdateOfferPriceDto
+DEBUG 2020-11-06 16:20:52,848 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.CreateOfferPriceStatusDto
+DEBUG 2020-11-06 16:20:52,849 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.OfferPriceStatusDto
+DEBUG 2020-11-06 16:20:52,849 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.UpdateOfferPriceStatusDto
+DEBUG 2020-11-06 16:20:52,849 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2020-11-06 16:20:52,849 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.MultiTenancy.Dto.TenantDto
+DEBUG 2020-11-06 16:20:52,849 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.CreateDriverDto
+DEBUG 2020-11-06 16:20:52,850 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.DriverDto
+DEBUG 2020-11-06 16:20:52,850 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.UpdateDriverDto
+DEBUG 2020-11-06 16:20:52,850 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.ClientDto
+DEBUG 2020-11-06 16:20:52,850 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.CreateClientDto
+DEBUG 2020-11-06 16:20:52,850 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.UpdateClientDto
+DEBUG 2020-11-06 16:20:52,851 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.ClientAdressDto
+DEBUG 2020-11-06 16:20:52,851 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.CreateClientAdressDto
+DEBUG 2020-11-06 16:20:52,851 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.UpdateClientAdressDto
+DEBUG 2020-11-06 16:20:52,851 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.CategoryDto
+DEBUG 2020-11-06 16:20:52,851 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.CreateCategoryDto
+DEBUG 2020-11-06 16:20:52,852 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.UpdateCategoryDto
+DEBUG 2020-11-06 16:20:52,852 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminCreateWaselDriverDto
+DEBUG 2020-11-06 16:20:52,852 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminUpdateWaselDriverDto
+DEBUG 2020-11-06 16:20:52,852 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminWaselDriverDto
+DEBUG 2020-11-06 16:20:52,852 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.AdminVechileDto
+DEBUG 2020-11-06 16:20:52,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.CreateAdminVechileDto
+DEBUG 2020-11-06 16:20:52,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.UpdateAdminVechileDto
+DEBUG 2020-11-06 16:20:52,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminCreateSubcategoryDto
+DEBUG 2020-11-06 16:20:52,855 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminPagedSubcategoryResultRequestDto
+DEBUG 2020-11-06 16:20:52,855 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminSubcategoryDto
+DEBUG 2020-11-06 16:20:52,856 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminUpdateSubcategoryDto
+DEBUG 2020-11-06 16:20:52,856 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminCreateRequestDto
+DEBUG 2020-11-06 16:20:52,857 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminRequestDto
+DEBUG 2020-11-06 16:20:52,857 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminUpdateRquestDto
+DEBUG 2020-11-06 16:20:52,858 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminCreateOfferPriceDto
+DEBUG 2020-11-06 16:20:52,858 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminOfferPriceDto
+DEBUG 2020-11-06 16:20:52,858 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminUpdateOfferPriceDto
+DEBUG 2020-11-06 16:20:52,859 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminCreateDriverDto
+DEBUG 2020-11-06 16:20:52,859 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminDriverDto
+DEBUG 2020-11-06 16:20:52,859 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminUpdateDriverDto
+DEBUG 2020-11-06 16:20:52,860 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.AdminCreateDriverJoinRequestDto
+DEBUG 2020-11-06 16:20:52,860 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.AdminUpdateDriverJoinRequestDto
+DEBUG 2020-11-06 16:20:52,861 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.DriverJoinRequestDto
+DEBUG 2020-11-06 16:20:52,861 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminCompanyClientDto
+DEBUG 2020-11-06 16:20:52,861 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminCreateCompanyClientDto
+DEBUG 2020-11-06 16:20:52,862 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminUpdateCompanyClientDto
+DEBUG 2020-11-06 16:20:52,862 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.CompanyDto
+DEBUG 2020-11-06 16:20:52,863 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.CreateCompanyDto
+DEBUG 2020-11-06 16:20:52,863 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.UpdateCompanyDto
+DEBUG 2020-11-06 16:20:52,863 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminClientDto
+DEBUG 2020-11-06 16:20:52,863 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminCreateClientDto
+DEBUG 2020-11-06 16:20:52,864 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminUpdateClientDto
+DEBUG 2020-11-06 16:20:52,864 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminClientAdressDto
+DEBUG 2020-11-06 16:20:52,864 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminCreateClientAdressDto
+DEBUG 2020-11-06 16:20:52,865 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminUpdateClientAdressDto
+DEBUG 2020-11-06 16:20:52,865 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminCategoryDto
+DEBUG 2020-11-06 16:20:52,866 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminCreateCategoryDto
+DEBUG 2020-11-06 16:20:52,866 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminUpdateCategoryDto
+INFO  2020-11-06 16:20:59,221 [1    ] tCore.Builder.RequestLocalizationOptions - Supported Request Localization Cultures: en,es-MX,fr,de,it,nl,pt-BR,tr,ru,ar-EG,ar,ja,zh-Hans
+INFO  2020-11-06 16:21:00,164 [1    ] taProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\Moonlight\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+INFO  2020-11-06 16:21:00,296 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2020-11-06 16:21:00,705 [8    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:21:08,405 [8    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Wajeeh.Web.Host.Controllers.HomeController (Wajeeh.Web.Host).
+INFO  2020-11-06 16:21:10,599 [8    ] c.Infrastructure.ControllerActionInvoker - Executing action method Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host) - Validation state: Valid
+INFO  2020-11-06 16:21:10,613 [8    ] c.Infrastructure.ControllerActionInvoker - Executed action method Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 0.8708ms.
+INFO  2020-11-06 16:21:11,032 [7    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2020-11-06 16:21:11,047 [7    ] c.Infrastructure.ControllerActionInvoker - Executed action Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host) in 2630.0862ms
+INFO  2020-11-06 16:21:11,052 [7    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:21:11,097 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2020-11-06 16:21:11,116 [7    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 10801.265ms 302 
+INFO  2020-11-06 16:21:11,446 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 356.1188ms 200 text/html;charset=utf-8
+INFO  2020-11-06 16:21:11,669 [7    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AntiForgery/SetCookie  
+INFO  2020-11-06 16:21:11,767 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2020-11-06 16:21:11,994 [4    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2020-11-06 16:21:11,994 [7    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2020-11-06 16:21:12,220 [8    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:21:12,237 [8    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "SetCookie", controller = "AntiForgery", area = ""}. Executing controller action with signature Void SetCookie() on controller Wajeeh.Web.Host.Controllers.AntiForgeryController (Wajeeh.Web.Host).
+INFO  2020-11-06 16:21:12,423 [8    ] c.Infrastructure.ControllerActionInvoker - Executing action method Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host) - Validation state: Valid
+INFO  2020-11-06 16:21:12,444 [8    ] c.Infrastructure.ControllerActionInvoker - Executed action method Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 16.2134ms.
+INFO  2020-11-06 16:21:12,494 [15   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-11-06 16:21:12,534 [15   ] c.Infrastructure.ControllerActionInvoker - Executed action Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host) in 290.2555ms
+INFO  2020-11-06 16:21:12,541 [15   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:21:12,547 [15   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 880.153ms 200 application/json; charset=utf-8
+INFO  2020-11-06 16:21:13,093 [13   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1332.9221ms 200 application/json;charset=utf-8
+INFO  2020-11-06 16:36:39,026 [13   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/swagger/v1/swagger.json  
+INFO  2020-11-06 16:36:39,087 [13   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 63.2589ms 404 
+INFO  2020-11-06 16:37:44,264 [13   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/swagger/v1/swagger.json  
+INFO  2020-11-06 16:37:44,294 [13   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 30.926ms 404 
+INFO  2020-11-06 16:41:40,132 [13   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/swagger/v1/swagger.json  
+INFO  2020-11-06 16:41:40,154 [13   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 13.7961ms 404 
+DEBUG 2020-11-06 16:42:59,032 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-11-06 16:42:59,668 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2020-11-06 16:42:59,719 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.Web.Host.Startup.WajeehWebHostModule, Wajeeh.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,723 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehWebCoreModule, Wajeeh.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,725 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehApplicationModule, Wajeeh.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,726 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehCoreModule, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,726 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,727 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,728 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,731 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,732 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.EntityFrameworkCore.WajeehEntityFrameworkModule, Wajeeh.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,732 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,733 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,734 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,734 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,735 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,736 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:42:59,744 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2020-11-06 16:43:00,050 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:43:00,050 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:43:00,050 [1    ] o.Configuration.LanguageManagementConfig - Converted Wajeeh (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:43:00,050 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:43:01,765 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Wajeeh.EntityFrameworkCore.WajeehDbContext, Wajeeh.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:43:04,955 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-11-06 16:43:05,062 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-11-06 16:43:05,094 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-11-06 16:43:05,117 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wajeeh
+DEBUG 2020-11-06 16:43:05,136 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-11-06 16:43:05,675 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-11-06 16:43:06,088 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[Wajeeh.MultiTenancy.Tenant, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Wajeeh.Authorization.Users.User, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-11-06 16:43:06,222 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 76 classes define auto mapping attributes
+DEBUG 2020-11-06 16:43:06,222 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2020-11-06 16:43:06,232 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.CreateUserByPhoneDto
+DEBUG 2020-11-06 16:43:06,232 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.CreateUserDto
+DEBUG 2020-11-06 16:43:06,233 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.UserDto
+DEBUG 2020-11-06 16:43:06,233 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.CreateSubcategoryDto
+DEBUG 2020-11-06 16:43:06,234 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.SubcategoryDto
+DEBUG 2020-11-06 16:43:06,234 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.UpdateSubcategoryDto
+DEBUG 2020-11-06 16:43:06,234 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2020-11-06 16:43:06,235 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Sessions.Dto.UserLoginInfoDto
+DEBUG 2020-11-06 16:43:06,235 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Roles.Dto.PermissionDto
+DEBUG 2020-11-06 16:43:06,235 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.CreateRequestDto
+DEBUG 2020-11-06 16:43:06,235 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.RequestDto
+DEBUG 2020-11-06 16:43:06,236 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.UpdateRquestDto
+DEBUG 2020-11-06 16:43:06,236 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.CreateRequestStateDto
+DEBUG 2020-11-06 16:43:06,236 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.RequestStateDto
+DEBUG 2020-11-06 16:43:06,236 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.UpdateRequestStateDto
+DEBUG 2020-11-06 16:43:06,236 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.CreatePlateTypeDto
+DEBUG 2020-11-06 16:43:06,236 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.PlateTypeDto
+DEBUG 2020-11-06 16:43:06,236 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.UpdatePlateTypeDto
+DEBUG 2020-11-06 16:43:06,237 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.CreateOfferPriceDto
+DEBUG 2020-11-06 16:43:06,237 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.OfferPriceDto
+DEBUG 2020-11-06 16:43:06,237 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.UpdateOfferPriceDto
+DEBUG 2020-11-06 16:43:06,237 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.CreateOfferPriceStatusDto
+DEBUG 2020-11-06 16:43:06,237 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.OfferPriceStatusDto
+DEBUG 2020-11-06 16:43:06,238 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.UpdateOfferPriceStatusDto
+DEBUG 2020-11-06 16:43:06,238 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2020-11-06 16:43:06,238 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.MultiTenancy.Dto.TenantDto
+DEBUG 2020-11-06 16:43:06,238 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.CreateDriverDto
+DEBUG 2020-11-06 16:43:06,238 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.DriverDto
+DEBUG 2020-11-06 16:43:06,238 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.UpdateDriverDto
+DEBUG 2020-11-06 16:43:06,239 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.ClientDto
+DEBUG 2020-11-06 16:43:06,239 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.CreateClientDto
+DEBUG 2020-11-06 16:43:06,239 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.UpdateClientDto
+DEBUG 2020-11-06 16:43:06,240 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.ClientAdressDto
+DEBUG 2020-11-06 16:43:06,240 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.CreateClientAdressDto
+DEBUG 2020-11-06 16:43:06,240 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.UpdateClientAdressDto
+DEBUG 2020-11-06 16:43:06,240 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.CategoryDto
+DEBUG 2020-11-06 16:43:06,240 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.CreateCategoryDto
+DEBUG 2020-11-06 16:43:06,241 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.UpdateCategoryDto
+DEBUG 2020-11-06 16:43:06,241 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminCreateWaselDriverDto
+DEBUG 2020-11-06 16:43:06,241 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminUpdateWaselDriverDto
+DEBUG 2020-11-06 16:43:06,241 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminWaselDriverDto
+DEBUG 2020-11-06 16:43:06,241 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.AdminVechileDto
+DEBUG 2020-11-06 16:43:06,241 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.CreateAdminVechileDto
+DEBUG 2020-11-06 16:43:06,242 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.UpdateAdminVechileDto
+DEBUG 2020-11-06 16:43:06,242 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminCreateSubcategoryDto
+DEBUG 2020-11-06 16:43:06,242 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminPagedSubcategoryResultRequestDto
+DEBUG 2020-11-06 16:43:06,242 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminSubcategoryDto
+DEBUG 2020-11-06 16:43:06,242 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminUpdateSubcategoryDto
+DEBUG 2020-11-06 16:43:06,242 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminCreateRequestDto
+DEBUG 2020-11-06 16:43:06,243 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminRequestDto
+DEBUG 2020-11-06 16:43:06,243 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminUpdateRquestDto
+DEBUG 2020-11-06 16:43:06,243 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminCreateOfferPriceDto
+DEBUG 2020-11-06 16:43:06,243 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminOfferPriceDto
+DEBUG 2020-11-06 16:43:06,244 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminUpdateOfferPriceDto
+DEBUG 2020-11-06 16:43:06,244 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminCreateDriverDto
+DEBUG 2020-11-06 16:43:06,244 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminDriverDto
+DEBUG 2020-11-06 16:43:06,244 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminUpdateDriverDto
+DEBUG 2020-11-06 16:43:06,244 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.AdminCreateDriverJoinRequestDto
+DEBUG 2020-11-06 16:43:06,245 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.AdminUpdateDriverJoinRequestDto
+DEBUG 2020-11-06 16:43:06,245 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.DriverJoinRequestDto
+DEBUG 2020-11-06 16:43:06,245 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminCompanyClientDto
+DEBUG 2020-11-06 16:43:06,245 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminCreateCompanyClientDto
+DEBUG 2020-11-06 16:43:06,245 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminUpdateCompanyClientDto
+DEBUG 2020-11-06 16:43:06,246 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.CompanyDto
+DEBUG 2020-11-06 16:43:06,247 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.CreateCompanyDto
+DEBUG 2020-11-06 16:43:06,247 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.UpdateCompanyDto
+DEBUG 2020-11-06 16:43:06,248 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminClientDto
+DEBUG 2020-11-06 16:43:06,248 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminCreateClientDto
+DEBUG 2020-11-06 16:43:06,249 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminUpdateClientDto
+DEBUG 2020-11-06 16:43:06,249 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminClientAdressDto
+DEBUG 2020-11-06 16:43:06,249 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminCreateClientAdressDto
+DEBUG 2020-11-06 16:43:06,249 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminUpdateClientAdressDto
+DEBUG 2020-11-06 16:43:06,249 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminCategoryDto
+DEBUG 2020-11-06 16:43:06,250 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminCreateCategoryDto
+DEBUG 2020-11-06 16:43:06,250 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminUpdateCategoryDto
+INFO  2020-11-06 16:43:13,718 [1    ] tCore.Builder.RequestLocalizationOptions - Supported Request Localization Cultures: en,es-MX,fr,de,it,nl,pt-BR,tr,ru,ar-EG,ar,ja,zh-Hans
+INFO  2020-11-06 16:43:14,714 [1    ] taProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\Moonlight\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+INFO  2020-11-06 16:43:15,197 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2020-11-06 16:43:15,541 [4    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:43:25,673 [4    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Wajeeh.Web.Host.Controllers.HomeController (Wajeeh.Web.Host).
+INFO  2020-11-06 16:43:29,000 [4    ] c.Infrastructure.ControllerActionInvoker - Executing action method Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host) - Validation state: Valid
+INFO  2020-11-06 16:43:29,014 [4    ] c.Infrastructure.ControllerActionInvoker - Executed action method Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 0.6883ms.
+INFO  2020-11-06 16:43:29,576 [14   ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2020-11-06 16:43:29,593 [14   ] c.Infrastructure.ControllerActionInvoker - Executed action Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host) in 3907.7502ms
+INFO  2020-11-06 16:43:29,600 [14   ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:43:29,645 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2020-11-06 16:43:29,652 [14   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 14455.0743ms 302 
+INFO  2020-11-06 16:43:30,144 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 492.4486ms 200 text/html;charset=utf-8
+INFO  2020-11-06 16:43:30,837 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AntiForgery/SetCookie  
+INFO  2020-11-06 16:43:30,989 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2020-11-06 16:43:31,089 [8    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2020-11-06 16:43:31,089 [4    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2020-11-06 16:43:31,361 [4    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:43:31,398 [4    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "SetCookie", controller = "AntiForgery", area = ""}. Executing controller action with signature Void SetCookie() on controller Wajeeh.Web.Host.Controllers.AntiForgeryController (Wajeeh.Web.Host).
+INFO  2020-11-06 16:43:31,557 [4    ] c.Infrastructure.ControllerActionInvoker - Executing action method Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host) - Validation state: Valid
+INFO  2020-11-06 16:43:31,593 [4    ] c.Infrastructure.ControllerActionInvoker - Executed action method Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 31.526ms.
+INFO  2020-11-06 16:43:31,659 [8    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-11-06 16:43:31,749 [8    ] c.Infrastructure.ControllerActionInvoker - Executed action Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host) in 307.2638ms
+INFO  2020-11-06 16:43:31,797 [8    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:43:31,817 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 965.4197ms 200 application/json; charset=utf-8
+INFO  2020-11-06 16:43:32,581 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1592.1064ms 200 application/json;charset=utf-8
+INFO  2020-11-06 16:46:26,040 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/swagger/v1/swagger.json  
+INFO  2020-11-06 16:46:26,138 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 101.9549ms 404 
+DEBUG 2020-11-06 16:50:54,139 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-11-06 16:50:55,023 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2020-11-06 16:50:55,052 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.Web.Host.Startup.WajeehWebHostModule, Wajeeh.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,055 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehWebCoreModule, Wajeeh.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,057 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehApplicationModule, Wajeeh.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,057 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehCoreModule, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,058 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,059 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,059 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,060 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,062 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.EntityFrameworkCore.WajeehEntityFrameworkModule, Wajeeh.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,062 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,063 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,063 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,063 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,064 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,064 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:55,068 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2020-11-06 16:50:55,212 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:50:55,212 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:50:55,213 [1    ] o.Configuration.LanguageManagementConfig - Converted Wajeeh (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:50:55,213 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 16:50:55,998 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Wajeeh.EntityFrameworkCore.WajeehDbContext, Wajeeh.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 16:50:58,100 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-11-06 16:50:58,165 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-11-06 16:50:58,180 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-11-06 16:50:58,189 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wajeeh
+DEBUG 2020-11-06 16:50:58,196 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-11-06 16:50:58,675 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-11-06 16:50:58,965 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[Wajeeh.MultiTenancy.Tenant, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Wajeeh.Authorization.Users.User, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-11-06 16:50:59,053 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 76 classes define auto mapping attributes
+DEBUG 2020-11-06 16:50:59,053 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2020-11-06 16:50:59,061 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.CreateUserByPhoneDto
+DEBUG 2020-11-06 16:50:59,062 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.CreateUserDto
+DEBUG 2020-11-06 16:50:59,063 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.UserDto
+DEBUG 2020-11-06 16:50:59,063 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.CreateSubcategoryDto
+DEBUG 2020-11-06 16:50:59,064 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.SubcategoryDto
+DEBUG 2020-11-06 16:50:59,064 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.UpdateSubcategoryDto
+DEBUG 2020-11-06 16:50:59,064 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2020-11-06 16:50:59,065 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Sessions.Dto.UserLoginInfoDto
+DEBUG 2020-11-06 16:50:59,065 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Roles.Dto.PermissionDto
+DEBUG 2020-11-06 16:50:59,065 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.CreateRequestDto
+DEBUG 2020-11-06 16:50:59,065 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.RequestDto
+DEBUG 2020-11-06 16:50:59,066 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.UpdateRquestDto
+DEBUG 2020-11-06 16:50:59,066 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.CreateRequestStateDto
+DEBUG 2020-11-06 16:50:59,066 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.RequestStateDto
+DEBUG 2020-11-06 16:50:59,067 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.UpdateRequestStateDto
+DEBUG 2020-11-06 16:50:59,067 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.CreatePlateTypeDto
+DEBUG 2020-11-06 16:50:59,067 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.PlateTypeDto
+DEBUG 2020-11-06 16:50:59,067 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.UpdatePlateTypeDto
+DEBUG 2020-11-06 16:50:59,067 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.CreateOfferPriceDto
+DEBUG 2020-11-06 16:50:59,068 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.OfferPriceDto
+DEBUG 2020-11-06 16:50:59,068 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.UpdateOfferPriceDto
+DEBUG 2020-11-06 16:50:59,068 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.CreateOfferPriceStatusDto
+DEBUG 2020-11-06 16:50:59,068 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.OfferPriceStatusDto
+DEBUG 2020-11-06 16:50:59,068 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.UpdateOfferPriceStatusDto
+DEBUG 2020-11-06 16:50:59,068 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2020-11-06 16:50:59,068 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.MultiTenancy.Dto.TenantDto
+DEBUG 2020-11-06 16:50:59,069 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.CreateDriverDto
+DEBUG 2020-11-06 16:50:59,069 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.DriverDto
+DEBUG 2020-11-06 16:50:59,069 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.UpdateDriverDto
+DEBUG 2020-11-06 16:50:59,069 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.ClientDto
+DEBUG 2020-11-06 16:50:59,069 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.CreateClientDto
+DEBUG 2020-11-06 16:50:59,070 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.UpdateClientDto
+DEBUG 2020-11-06 16:50:59,070 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.ClientAdressDto
+DEBUG 2020-11-06 16:50:59,070 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.CreateClientAdressDto
+DEBUG 2020-11-06 16:50:59,070 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.UpdateClientAdressDto
+DEBUG 2020-11-06 16:50:59,070 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.CategoryDto
+DEBUG 2020-11-06 16:50:59,070 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.CreateCategoryDto
+DEBUG 2020-11-06 16:50:59,070 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.UpdateCategoryDto
+DEBUG 2020-11-06 16:50:59,071 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminCreateWaselDriverDto
+DEBUG 2020-11-06 16:50:59,071 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminUpdateWaselDriverDto
+DEBUG 2020-11-06 16:50:59,071 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminWaselDriverDto
+DEBUG 2020-11-06 16:50:59,071 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.AdminVechileDto
+DEBUG 2020-11-06 16:50:59,071 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.CreateAdminVechileDto
+DEBUG 2020-11-06 16:50:59,071 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.UpdateAdminVechileDto
+DEBUG 2020-11-06 16:50:59,071 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminCreateSubcategoryDto
+DEBUG 2020-11-06 16:50:59,072 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminPagedSubcategoryResultRequestDto
+DEBUG 2020-11-06 16:50:59,072 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminSubcategoryDto
+DEBUG 2020-11-06 16:50:59,072 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminUpdateSubcategoryDto
+DEBUG 2020-11-06 16:50:59,073 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminCreateRequestDto
+DEBUG 2020-11-06 16:50:59,073 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminRequestDto
+DEBUG 2020-11-06 16:50:59,073 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminUpdateRquestDto
+DEBUG 2020-11-06 16:50:59,073 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminCreateOfferPriceDto
+DEBUG 2020-11-06 16:50:59,073 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminOfferPriceDto
+DEBUG 2020-11-06 16:50:59,074 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminUpdateOfferPriceDto
+DEBUG 2020-11-06 16:50:59,074 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminCreateDriverDto
+DEBUG 2020-11-06 16:50:59,074 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminDriverDto
+DEBUG 2020-11-06 16:50:59,074 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminUpdateDriverDto
+DEBUG 2020-11-06 16:50:59,074 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.AdminCreateDriverJoinRequestDto
+DEBUG 2020-11-06 16:50:59,075 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.AdminUpdateDriverJoinRequestDto
+DEBUG 2020-11-06 16:50:59,075 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.DriverJoinRequestDto
+DEBUG 2020-11-06 16:50:59,075 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminCompanyClientDto
+DEBUG 2020-11-06 16:50:59,075 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminCreateCompanyClientDto
+DEBUG 2020-11-06 16:50:59,075 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminUpdateCompanyClientDto
+DEBUG 2020-11-06 16:50:59,075 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.CompanyDto
+DEBUG 2020-11-06 16:50:59,076 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.CreateCompanyDto
+DEBUG 2020-11-06 16:50:59,076 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.UpdateCompanyDto
+DEBUG 2020-11-06 16:50:59,076 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminClientDto
+DEBUG 2020-11-06 16:50:59,076 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminCreateClientDto
+DEBUG 2020-11-06 16:50:59,076 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminUpdateClientDto
+DEBUG 2020-11-06 16:50:59,076 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminClientAdressDto
+DEBUG 2020-11-06 16:50:59,077 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminCreateClientAdressDto
+DEBUG 2020-11-06 16:50:59,077 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminUpdateClientAdressDto
+DEBUG 2020-11-06 16:50:59,077 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminCategoryDto
+DEBUG 2020-11-06 16:50:59,077 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminCreateCategoryDto
+DEBUG 2020-11-06 16:50:59,077 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminUpdateCategoryDto
+INFO  2020-11-06 16:51:04,198 [1    ] tCore.Builder.RequestLocalizationOptions - Supported Request Localization Cultures: en,es-MX,fr,de,it,nl,pt-BR,tr,ru,ar-EG,ar,ja,zh-Hans
+INFO  2020-11-06 16:51:04,882 [1    ] taProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\Moonlight\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+INFO  2020-11-06 16:51:05,025 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2020-11-06 16:51:05,248 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:51:13,037 [5    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Wajeeh.Web.Host.Controllers.HomeController (Wajeeh.Web.Host).
+INFO  2020-11-06 16:51:15,666 [5    ] c.Infrastructure.ControllerActionInvoker - Executing action method Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host) - Validation state: Valid
+INFO  2020-11-06 16:51:15,676 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action method Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 0.6064ms.
+INFO  2020-11-06 16:51:16,039 [4    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2020-11-06 16:51:16,057 [4    ] c.Infrastructure.ControllerActionInvoker - Executed action Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host) in 3008.0421ms
+INFO  2020-11-06 16:51:16,062 [4    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:51:16,096 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2020-11-06 16:51:16,100 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 11072.4149ms 302 
+INFO  2020-11-06 16:51:16,417 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 318.9021ms 200 text/html;charset=utf-8
+INFO  2020-11-06 16:51:16,706 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AntiForgery/SetCookie  
+INFO  2020-11-06 16:51:16,809 [9    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2020-11-06 16:51:16,982 [9    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2020-11-06 16:51:16,983 [4    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2020-11-06 16:51:17,165 [9    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:51:17,191 [9    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "SetCookie", controller = "AntiForgery", area = ""}. Executing controller action with signature Void SetCookie() on controller Wajeeh.Web.Host.Controllers.AntiForgeryController (Wajeeh.Web.Host).
+INFO  2020-11-06 16:51:17,314 [9    ] c.Infrastructure.ControllerActionInvoker - Executing action method Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host) - Validation state: Valid
+INFO  2020-11-06 16:51:17,333 [9    ] c.Infrastructure.ControllerActionInvoker - Executed action method Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 14.2721ms.
+INFO  2020-11-06 16:51:17,367 [5    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-11-06 16:51:17,403 [5    ] c.Infrastructure.ControllerActionInvoker - Executed action Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host) in 206.1679ms
+INFO  2020-11-06 16:51:17,406 [5    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host)'
+INFO  2020-11-06 16:51:17,410 [5    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 730.7894ms 200 application/json; charset=utf-8
+INFO  2020-11-06 16:51:18,081 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1274.6393ms 200 application/json;charset=utf-8
+INFO  2020-11-06 16:51:44,878 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/api/swagger/v1/swagger.json  
+INFO  2020-11-06 16:51:44,904 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 28.6362ms 404 
+INFO  2020-11-06 17:01:17,020 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2020-11-06 17:01:17,265 [23   ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 240.9753ms 200 application/json;charset=utf-8
+DEBUG 2020-11-06 20:57:43,601 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-11-06 20:57:44,360 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2020-11-06 20:57:44,382 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.Web.Host.Startup.WajeehWebHostModule, Wajeeh.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,385 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehWebCoreModule, Wajeeh.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,387 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehApplicationModule, Wajeeh.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,387 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.WajeehCoreModule, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,388 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,388 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,389 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,389 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,390 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Wajeeh.EntityFrameworkCore.WajeehEntityFrameworkModule, Wajeeh.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,390 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,390 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,391 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,391 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,392 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,392 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:44,396 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2020-11-06 20:57:44,577 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 20:57:44,577 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 20:57:44,577 [1    ] o.Configuration.LanguageManagementConfig - Converted Wajeeh (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 20:57:44,577 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-11-06 20:57:45,383 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Wajeeh.EntityFrameworkCore.WajeehDbContext, Wajeeh.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-11-06 20:57:47,947 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-11-06 20:57:48,135 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-11-06 20:57:48,152 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-11-06 20:57:48,163 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Wajeeh
+DEBUG 2020-11-06 20:57:48,175 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-11-06 20:57:48,612 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-11-06 20:57:48,979 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[Wajeeh.MultiTenancy.Tenant, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Wajeeh.Authorization.Users.User, Wajeeh.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-11-06 20:57:49,123 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 79 classes define auto mapping attributes
+DEBUG 2020-11-06 20:57:49,124 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2020-11-06 20:57:49,141 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.CreateUserByPhoneDto
+DEBUG 2020-11-06 20:57:49,142 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.CreateUserDto
+DEBUG 2020-11-06 20:57:49,142 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Users.Dto.UserDto
+DEBUG 2020-11-06 20:57:49,142 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.CreateSubcategoryDto
+DEBUG 2020-11-06 20:57:49,144 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.SubcategoryDto
+DEBUG 2020-11-06 20:57:49,144 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Subcategories.Dto.UpdateSubcategoryDto
+DEBUG 2020-11-06 20:57:49,145 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2020-11-06 20:57:49,145 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Sessions.Dto.UserLoginInfoDto
+DEBUG 2020-11-06 20:57:49,145 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Roles.Dto.PermissionDto
+DEBUG 2020-11-06 20:57:49,146 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.CreateRequestDto
+DEBUG 2020-11-06 20:57:49,146 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.RequestDto
+DEBUG 2020-11-06 20:57:49,147 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Reuests.Dto.UpdateRquestDto
+DEBUG 2020-11-06 20:57:49,147 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.CreateRequestStateDto
+DEBUG 2020-11-06 20:57:49,148 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.RequestStateDto
+DEBUG 2020-11-06 20:57:49,148 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.RequestStatus.Dto.UpdateRequestStateDto
+DEBUG 2020-11-06 20:57:49,148 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.CreatePlateTypeDto
+DEBUG 2020-11-06 20:57:49,149 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.PlateTypeDto
+DEBUG 2020-11-06 20:57:49,149 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.PlateTypes.Dto.UpdatePlateTypeDto
+DEBUG 2020-11-06 20:57:49,149 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.CreateOfferPriceDto
+DEBUG 2020-11-06 20:57:49,150 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.OfferPriceDto
+DEBUG 2020-11-06 20:57:49,150 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPrices.Dto.UpdateOfferPriceDto
+DEBUG 2020-11-06 20:57:49,151 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.CreateOfferPriceStatusDto
+DEBUG 2020-11-06 20:57:49,151 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.OfferPriceStatusDto
+DEBUG 2020-11-06 20:57:49,151 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.OfferPriceStatus.Dto.UpdateOfferPriceStatusDto
+DEBUG 2020-11-06 20:57:49,151 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2020-11-06 20:57:49,152 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.MultiTenancy.Dto.TenantDto
+DEBUG 2020-11-06 20:57:49,152 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.CreateDriverDto
+DEBUG 2020-11-06 20:57:49,153 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.DriverDto
+DEBUG 2020-11-06 20:57:49,153 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Drivers.Dto.UpdateDriverDto
+DEBUG 2020-11-06 20:57:49,153 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Coupons.Dto.CouponDto
+DEBUG 2020-11-06 20:57:49,153 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Coupons.Dto.CreateCouponDto
+DEBUG 2020-11-06 20:57:49,153 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Coupons.Dto.UpdateCouponDto
+DEBUG 2020-11-06 20:57:49,153 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.ClientDto
+DEBUG 2020-11-06 20:57:49,154 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.CreateClientDto
+DEBUG 2020-11-06 20:57:49,154 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Clients.Dto.UpdateClientDto
+DEBUG 2020-11-06 20:57:49,154 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.ClientAdressDto
+DEBUG 2020-11-06 20:57:49,154 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.CreateClientAdressDto
+DEBUG 2020-11-06 20:57:49,154 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.ClientAdresses.Dto.UpdateClientAdressDto
+DEBUG 2020-11-06 20:57:49,154 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.CategoryDto
+DEBUG 2020-11-06 20:57:49,155 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.CreateCategoryDto
+DEBUG 2020-11-06 20:57:49,155 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.Categories.Dto.UpdateCategoryDto
+DEBUG 2020-11-06 20:57:49,155 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminCreateWaselDriverDto
+DEBUG 2020-11-06 20:57:49,155 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminUpdateWaselDriverDto
+DEBUG 2020-11-06 20:57:49,155 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminWaselDrivers.Dto.AdminWaselDriverDto
+DEBUG 2020-11-06 20:57:49,155 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.AdminVechileDto
+DEBUG 2020-11-06 20:57:49,155 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.CreateAdminVechileDto
+DEBUG 2020-11-06 20:57:49,156 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminVechiles.Dto.UpdateAdminVechileDto
+DEBUG 2020-11-06 20:57:49,156 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminCreateSubcategoryDto
+DEBUG 2020-11-06 20:57:49,156 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminPagedSubcategoryResultRequestDto
+DEBUG 2020-11-06 20:57:49,156 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminSubcategoryDto
+DEBUG 2020-11-06 20:57:49,156 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminSubcategories.Dto.AdminUpdateSubcategoryDto
+DEBUG 2020-11-06 20:57:49,156 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminCreateRequestDto
+DEBUG 2020-11-06 20:57:49,156 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminRequestDto
+DEBUG 2020-11-06 20:57:49,157 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminReuests.Dto.AdminUpdateRquestDto
+DEBUG 2020-11-06 20:57:49,157 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminCreateOfferPriceDto
+DEBUG 2020-11-06 20:57:49,157 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminOfferPriceDto
+DEBUG 2020-11-06 20:57:49,157 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminOfferPrices.Dto.AdminUpdateOfferPriceDto
+DEBUG 2020-11-06 20:57:49,157 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminCreateDriverDto
+DEBUG 2020-11-06 20:57:49,158 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminDriverDto
+DEBUG 2020-11-06 20:57:49,158 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDrivers.Dto.AdminUpdateDriverDto
+DEBUG 2020-11-06 20:57:49,158 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.AdminCreateDriverJoinRequestDto
+DEBUG 2020-11-06 20:57:49,158 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.AdminUpdateDriverJoinRequestDto
+DEBUG 2020-11-06 20:57:49,158 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminDriverJoinRequests.Dto.DriverJoinRequestDto
+DEBUG 2020-11-06 20:57:49,158 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminCompanyClientDto
+DEBUG 2020-11-06 20:57:49,159 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminCreateCompanyClientDto
+DEBUG 2020-11-06 20:57:49,159 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanyClients.Dto.AdminUpdateCompanyClientDto
+DEBUG 2020-11-06 20:57:49,159 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.CompanyDto
+DEBUG 2020-11-06 20:57:49,159 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.CreateCompanyDto
+DEBUG 2020-11-06 20:57:49,159 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCompanies.Dto.UpdateCompanyDto
+DEBUG 2020-11-06 20:57:49,159 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminClientDto
+DEBUG 2020-11-06 20:57:49,159 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminCreateClientDto
+DEBUG 2020-11-06 20:57:49,159 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClients.Dto.AdminUpdateClientDto
+DEBUG 2020-11-06 20:57:49,160 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminClientAdressDto
+DEBUG 2020-11-06 20:57:49,160 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminCreateClientAdressDto
+DEBUG 2020-11-06 20:57:49,160 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminClientAdresses.Dto.AdminUpdateClientAdressDto
+DEBUG 2020-11-06 20:57:49,160 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminCategoryDto
+DEBUG 2020-11-06 20:57:49,160 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminCreateCategoryDto
+DEBUG 2020-11-06 20:57:49,160 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Wajeeh.AdminCategories.Dto.AdminUpdateCategoryDto
+INFO  2020-11-06 20:57:55,276 [1    ] tCore.Builder.RequestLocalizationOptions - Supported Request Localization Cultures: en,es-MX,fr,de,it,nl,pt-BR,tr,ru,ar-EG,ar,ja,zh-Hans
+INFO  2020-11-06 20:57:56,654 [1    ] taProtection.KeyManagement.XmlKeyManager - User profile is available. Using 'C:\Users\Moonlight\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+INFO  2020-11-06 20:57:57,402 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2020-11-06 20:57:57,729 [8    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host)'
+INFO  2020-11-06 20:58:05,114 [8    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Wajeeh.Web.Host.Controllers.HomeController (Wajeeh.Web.Host).
+INFO  2020-11-06 20:58:07,633 [8    ] c.Infrastructure.ControllerActionInvoker - Executing action method Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host) - Validation state: Valid
+INFO  2020-11-06 20:58:07,662 [8    ] c.Infrastructure.ControllerActionInvoker - Executed action method Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 18.2388ms.
+INFO  2020-11-06 20:58:08,166 [4    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2020-11-06 20:58:08,183 [4    ] c.Infrastructure.ControllerActionInvoker - Executed action Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host) in 3056.5347ms
+INFO  2020-11-06 20:58:08,188 [4    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Wajeeh.Web.Host.Controllers.HomeController.Index (Wajeeh.Web.Host)'
+INFO  2020-11-06 20:58:08,256 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2020-11-06 20:58:08,258 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 10857.7785ms 302 
+INFO  2020-11-06 20:58:08,719 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 464.9459ms 200 text/html;charset=utf-8
+INFO  2020-11-06 20:58:09,330 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/AntiForgery/SetCookie  
+INFO  2020-11-06 20:58:09,334 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2020-11-06 20:58:09,574 [4    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2020-11-06 20:58:09,574 [8    ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2020-11-06 20:58:09,763 [8    ] ft.AspNetCore.Routing.EndpointMiddleware - Executing endpoint 'Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host)'
+INFO  2020-11-06 20:58:09,808 [8    ] c.Infrastructure.ControllerActionInvoker - Route matched with {action = "SetCookie", controller = "AntiForgery", area = ""}. Executing controller action with signature Void SetCookie() on controller Wajeeh.Web.Host.Controllers.AntiForgeryController (Wajeeh.Web.Host).
+INFO  2020-11-06 20:58:09,998 [8    ] c.Infrastructure.ControllerActionInvoker - Executing action method Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host) - Validation state: Valid
+INFO  2020-11-06 20:58:10,027 [8    ] c.Infrastructure.ControllerActionInvoker - Executed action method Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 22.7211ms.
+INFO  2020-11-06 20:58:10,136 [8    ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-11-06 20:58:10,189 [8    ] c.Infrastructure.ControllerActionInvoker - Executed action Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host) in 374.6991ms
+INFO  2020-11-06 20:58:10,194 [8    ] ft.AspNetCore.Routing.EndpointMiddleware - Executed endpoint 'Wajeeh.Web.Host.Controllers.AntiForgeryController.SetCookie (Wajeeh.Web.Host)'
+INFO  2020-11-06 20:58:10,199 [8    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 868.089ms 200 application/json; charset=utf-8
+INFO  2020-11-06 20:58:10,741 [4    ] Microsoft.AspNetCore.Hosting.Diagnostics - Request finished in 1409.1052ms 200 application/json;charset=utf-8
