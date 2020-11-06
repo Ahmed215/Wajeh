@@ -113,99 +113,99 @@ namespace Wajeeh.Drivers
         {
             var driver = base.MapToEntity(createInput);
 
-            if (!string.IsNullOrWhiteSpace(createInput.ProfilePicture))
-            {
-                driver.ProfilePicture = SaveFile(createInput.ProfilePicture, "DriverPictures");
-            }
+            //if (!string.IsNullOrWhiteSpace(createInput.ProfilePicture))
+            //{
+            //    driver.ProfilePicture = SaveFile(createInput.ProfilePicture, "DriverPictures");
+            //}
 
-            if (!string.IsNullOrWhiteSpace(createInput.IdentityPicture))
-            {
-                driver.IdentityPicture = SaveFile(createInput.IdentityPicture, "DriverPictures");
-            }
+            //if (!string.IsNullOrWhiteSpace(createInput.IdentityPicture))
+            //{
+            //    driver.IdentityPicture = SaveFile(createInput.IdentityPicture, "DriverPictures");
+            //}
 
-            if (!string.IsNullOrWhiteSpace(createInput.LisencePicture))
-            {
-                driver.LisencePicture = SaveFile(createInput.LisencePicture, "DriverPictures");
-            }
+            //if (!string.IsNullOrWhiteSpace(createInput.LisencePicture))
+            //{
+            //    driver.LisencePicture = SaveFile(createInput.LisencePicture, "DriverPictures");
+            //}
 
-            if (!string.IsNullOrWhiteSpace(createInput.VehicleLisencePicture))
-            {
-                driver.VehicleLisencePicture = SaveFile(createInput.VehicleLisencePicture, "DriverPictures");
-            }
+            //if (!string.IsNullOrWhiteSpace(createInput.VehicleLisencePicture))
+            //{
+            //    driver.VehicleLisencePicture = SaveFile(createInput.VehicleLisencePicture, "DriverPictures");
+            //}
 
-            if (!string.IsNullOrWhiteSpace(createInput.FrontVehiclePicture))
-            {
-                driver.FrontVehiclePicture = SaveFile(createInput.FrontVehiclePicture, "DriverPictures");
-            }
+            //if (!string.IsNullOrWhiteSpace(createInput.FrontVehiclePicture))
+            //{
+            //    driver.FrontVehiclePicture = SaveFile(createInput.FrontVehiclePicture, "DriverPictures");
+            //}
 
-            if (!string.IsNullOrWhiteSpace(createInput.BackVehiclePicture))
-            {
-                driver.BackVehiclePicture = SaveFile(createInput.BackVehiclePicture, "DriverPictures");
-            }
+            //if (!string.IsNullOrWhiteSpace(createInput.BackVehiclePicture))
+            //{
+            //    driver.BackVehiclePicture = SaveFile(createInput.BackVehiclePicture, "DriverPictures");
+            //}
             driver.UserId = AbpSession.UserId.Value;
             return driver;
         }
 
         protected override void MapToEntity(UpdateDriverDto updateInput, Driver entity)
         {
-            if (!string.IsNullOrWhiteSpace(updateInput.ProfilePicture))
-            {
-                updateInput.ProfilePicture = SaveFile(updateInput.ProfilePicture, "DriverPictures");
-            }
-            else
-            {
-                updateInput.ProfilePicture = entity.ProfilePicture;
-            }
+            //if (!string.IsNullOrWhiteSpace(updateInput.ProfilePicture))
+            //{
+            //    updateInput.ProfilePicture = SaveFile(updateInput.ProfilePicture, "DriverPictures");
+            //}
+            //else
+            //{
+            //    updateInput.ProfilePicture = entity.ProfilePicture;
+            //}
 
 
-            if (!string.IsNullOrWhiteSpace(updateInput.IdentityPicture))
-            {
-                updateInput.IdentityPicture = SaveFile(updateInput.IdentityPicture, "DriverPictures");
-            }
-            else
-            {
-                updateInput.IdentityPicture = entity.IdentityPicture;
-            }
+            //if (!string.IsNullOrWhiteSpace(updateInput.IdentityPicture))
+            //{
+            //    updateInput.IdentityPicture = SaveFile(updateInput.IdentityPicture, "DriverPictures");
+            //}
+            //else
+            //{
+            //    updateInput.IdentityPicture = entity.IdentityPicture;
+            //}
 
 
-            if (!string.IsNullOrWhiteSpace(updateInput.LisencePicture))
-            {
-                updateInput.LisencePicture = SaveFile(updateInput.LisencePicture, "DriverPictures");
-            }
-            else
-            {
-                updateInput.LisencePicture = entity.LisencePicture;
-            }
+            //if (!string.IsNullOrWhiteSpace(updateInput.LisencePicture))
+            //{
+            //    updateInput.LisencePicture = SaveFile(updateInput.LisencePicture, "DriverPictures");
+            //}
+            //else
+            //{
+            //    updateInput.LisencePicture = entity.LisencePicture;
+            //}
 
 
-            if (!string.IsNullOrWhiteSpace(updateInput.VehicleLisencePicture))
-            {
-                updateInput.VehicleLisencePicture = SaveFile(updateInput.VehicleLisencePicture, "DriverPictures");
-            }
-            else
-            {
-                updateInput.VehicleLisencePicture = entity.VehicleLisencePicture;
-            }
+            //if (!string.IsNullOrWhiteSpace(updateInput.VehicleLisencePicture))
+            //{
+            //    updateInput.VehicleLisencePicture = SaveFile(updateInput.VehicleLisencePicture, "DriverPictures");
+            //}
+            //else
+            //{
+            //    updateInput.VehicleLisencePicture = entity.VehicleLisencePicture;
+            //}
 
 
-            if (!string.IsNullOrWhiteSpace(updateInput.FrontVehiclePicture))
-            {
-                updateInput.FrontVehiclePicture = SaveFile(updateInput.FrontVehiclePicture, "DriverPictures");
-            }
-            else
-            {
-                updateInput.FrontVehiclePicture = entity.FrontVehiclePicture;
-            }
+            //if (!string.IsNullOrWhiteSpace(updateInput.FrontVehiclePicture))
+            //{
+            //    updateInput.FrontVehiclePicture = SaveFile(updateInput.FrontVehiclePicture, "DriverPictures");
+            //}
+            //else
+            //{
+            //    updateInput.FrontVehiclePicture = entity.FrontVehiclePicture;
+            //}
 
 
-            if (!string.IsNullOrWhiteSpace(updateInput.BackVehiclePicture))
-            {
-                updateInput.BackVehiclePicture = SaveFile(updateInput.BackVehiclePicture, "DriverPictures");
-            }
-            else
-            {
-                updateInput.BackVehiclePicture = entity.BackVehiclePicture;
-            }
+            //if (!string.IsNullOrWhiteSpace(updateInput.BackVehiclePicture))
+            //{
+            //    updateInput.BackVehiclePicture = SaveFile(updateInput.BackVehiclePicture, "DriverPictures");
+            //}
+            //else
+            //{
+            //    updateInput.BackVehiclePicture = entity.BackVehiclePicture;
+            //}
 
 
             base.MapToEntity(updateInput, entity);
@@ -214,30 +214,30 @@ namespace Wajeeh.Drivers
         protected override DriverDto MapToEntityDto(Driver entity)
         {
             var driverDto = base.MapToEntityDto(entity);
-            if (!string.IsNullOrWhiteSpace(driverDto.ProfilePicture))
-            {
-                driverDto.ProfilePicture = GetFile(entity.ProfilePicture, "DriverPictures");
-            }
-            if (!string.IsNullOrWhiteSpace(driverDto.IdentityPicture))
-            {
-                driverDto.IdentityPicture = GetFile(entity.IdentityPicture, "DriverPictures");
-            }
-            if (!string.IsNullOrWhiteSpace(driverDto.LisencePicture))
-            {
-                driverDto.LisencePicture = GetFile(entity.LisencePicture, "DriverPictures");
-            }
-            if (!string.IsNullOrWhiteSpace(driverDto.VehicleLisencePicture))
-            {
-                driverDto.VehicleLisencePicture = GetFile(entity.VehicleLisencePicture, "DriverPictures");
-            }
-            if (!string.IsNullOrWhiteSpace(driverDto.FrontVehiclePicture))
-            {
-                driverDto.FrontVehiclePicture = GetFile(entity.FrontVehiclePicture, "DriverPictures");
-            }
-            if (!string.IsNullOrWhiteSpace(driverDto.BackVehiclePicture))
-            {
-                driverDto.BackVehiclePicture = GetFile(entity.BackVehiclePicture, "DriverPictures");
-            }
+            //if (!string.IsNullOrWhiteSpace(driverDto.ProfilePicture))
+            //{
+            //    driverDto.ProfilePicture = GetFile(entity.ProfilePicture, "DriverPictures");
+            //}
+            //if (!string.IsNullOrWhiteSpace(driverDto.IdentityPicture))
+            //{
+            //    driverDto.IdentityPicture = GetFile(entity.IdentityPicture, "DriverPictures");
+            //}
+            //if (!string.IsNullOrWhiteSpace(driverDto.LisencePicture))
+            //{
+            //    driverDto.LisencePicture = GetFile(entity.LisencePicture, "DriverPictures");
+            //}
+            //if (!string.IsNullOrWhiteSpace(driverDto.VehicleLisencePicture))
+            //{
+            //    driverDto.VehicleLisencePicture = GetFile(entity.VehicleLisencePicture, "DriverPictures");
+            //}
+            //if (!string.IsNullOrWhiteSpace(driverDto.FrontVehiclePicture))
+            //{
+            //    driverDto.FrontVehiclePicture = GetFile(entity.FrontVehiclePicture, "DriverPictures");
+            //}
+            //if (!string.IsNullOrWhiteSpace(driverDto.BackVehiclePicture))
+            //{
+            //    driverDto.BackVehiclePicture = GetFile(entity.BackVehiclePicture, "DriverPictures");
+            //}
             return driverDto;
         }
         private String SaveFile(string file, string folder)

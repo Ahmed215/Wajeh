@@ -18,6 +18,8 @@
     <Compile Remove="Migrations\20200630185420_AddCompanyToClientEntity-MohammedElgohary.Designer.cs" />
     <Compile Remove="Migrations\20200630193147_test1.cs" />
     <Compile Remove="Migrations\20200630193147_test1.Designer.cs" />
+    <Compile Remove="Migrations\20201106132317_modifyDateOfBirthGregorian.cs" />
+    <Compile Remove="Migrations\20201106132317_modifyDateOfBirthGregorian.Designer.cs" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />

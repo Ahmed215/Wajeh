@@ -25,3 +25,12 @@ D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.As
 D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.csproj.CoreCompileInputs.cache
 D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.dll
 D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.pdb
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Core\bin\Debug\netcoreapp3.1\Wajeeh.Core.deps.json
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Core\bin\Debug\netcoreapp3.1\Wajeeh.Core.dll
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Core\bin\Debug\netcoreapp3.1\Wajeeh.Core.pdb
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.csprojAssemblyReference.cache
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.csproj.CoreCompileInputs.cache
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.AssemblyInfoInputs.cache
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.AssemblyInfo.cs
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.dll
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.Core\obj\Debug\netcoreapp3.1\Wajeeh.Core.pdb
