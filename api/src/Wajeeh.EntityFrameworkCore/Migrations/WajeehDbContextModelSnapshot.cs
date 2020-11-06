@@ -1837,6 +1837,48 @@ namespace Wajeeh.Migrations
                     b.ToTable("CompanyClients");
                 });
 
+            modelBuilder.Entity("Wajeeh.Coupons.Coupon", b =>
+                {
+                    b.Property<long>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bigint")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<bool>("Active")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Code")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("CouponType")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("CreationTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<long?>("CreatorUserId")
+                        .HasColumnType("bigint");
+
+                    b.Property<long?>("DeleterUserId")
+                        .HasColumnType("bigint");
+
+                    b.Property<DateTime?>("DeletionTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime?>("LastModificationTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<long?>("LastModifierUserId")
+                        .HasColumnType("bigint");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Coupons");
+                });
+
             modelBuilder.Entity("Wajeeh.DriverJoinRequests.DriverJoinRequest", b =>
                 {
                     b.Property<long>("Id")
@@ -1946,8 +1988,8 @@ namespace Wajeeh.Migrations
                         .HasColumnType("bigint")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("BackVehiclePicture")
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("AddressTitle")
+                        .HasColumnType("int");
 
                     b.Property<long?>("CompanyId")
                         .HasColumnType("bigint");
@@ -1957,6 +1999,12 @@ namespace Wajeeh.Migrations
 
                     b.Property<long?>("CreatorUserId")
                         .HasColumnType("bigint");
+
+                    b.Property<DateTime?>("DateOfBirthGregorian")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("DateOfBirthHijri")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<long?>("DeleterUserId")
                         .HasColumnType("bigint");
@@ -1970,13 +2018,7 @@ namespace Wajeeh.Migrations
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("FrontVehiclePicture")
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("FullName")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("IdentityPicture")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("IsDeleted")
@@ -1991,20 +2033,20 @@ namespace Wajeeh.Migrations
                     b.Property<long?>("LastModifierUserId")
                         .HasColumnType("bigint");
 
-                    b.Property<string>("LisencePicture")
+                    b.Property<string>("Lat")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Long")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("MobileNumber")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<bool>("OffDuty")
                         .HasColumnType("bit");
 
-                    b.Property<string>("ProfilePicture")
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<long>("UserId")
                         .HasColumnType("bigint");
-
-                    b.Property<string>("VehicleLisencePicture")
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("VehicleSequenceNumber")
                         .HasColumnType("nvarchar(max)");

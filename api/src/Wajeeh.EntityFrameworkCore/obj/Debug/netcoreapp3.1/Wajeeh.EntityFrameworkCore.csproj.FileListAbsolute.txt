@@ -49,3 +49,20 @@ D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\obj\Debug\netcoreapp3.1
 D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll
 D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.pdb
 D:\wajeeh\Ahmed Hosny\api\src\Wajeeh.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.genruntimeconfig.cache
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll.config
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.deps.json
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.runtimeconfig.json
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.runtimeconfig.dev.json
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.pdb
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Wajeeh.Core.dll
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\bin\Debug\netcoreapp3.1\Wajeeh.Core.pdb
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.csprojAssemblyReference.cache
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll.config
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.AssemblyInfo.cs
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.csproj.CopyComplete
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.dll
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.pdb
+D:\Asp.net Boilerplate Projects\Wajeh2Last\api\src\Wajeeh.EntityFrameworkCore\obj\Debug\netcoreapp3.1\Wajeeh.EntityFrameworkCore.genruntimeconfig.cache

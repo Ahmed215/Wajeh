@@ -17,12 +17,21 @@ namespace Wajeeh.AdminDrivers.Dto
         public string Email { get; set; }
         public string FullName { get; set; }
         public long VehicleType { get; set; }
-        public string ProfilePicture { get; set; }
-        public string IdentityPicture { get; set; }
-        public string FrontVehiclePicture { get; set; }
-        public string BackVehiclePicture { get; set; }
-        public string LisencePicture { get; set; }
-        public string VehicleLisencePicture { get; set; }
+        //
+        public DateTime? DateOfBirthGregorian { get; set; }
+        public string DateOfBirthHijri { get; set; }
+        public string MobileNumber { get; set; }
+
+        public int AddressTitle { get; set; }
+        public string Lat { get; set; }
+        public string Long { get; set; }
+        //
+        //public string ProfilePicture { get; set; }
+        //public string IdentityPicture { get; set; }
+        //public string FrontVehiclePicture { get; set; }
+        //public string BackVehiclePicture { get; set; }
+        //public string LisencePicture { get; set; }
+        //public string VehicleLisencePicture { get; set; }
         public long CompanyId { get; set; }
         public bool OffDuty { get; set; }
     }
