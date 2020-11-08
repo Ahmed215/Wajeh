@@ -6,6 +6,7 @@ using System.Text;
 using Wajeeh.Authorization.Users;
 using Wajeeh.OfferPrices;
 using Wajeeh.Subcategories;
+using Wajeeh.TrackingTrips;
 
 namespace Wajeeh.Requests
 {
@@ -37,5 +38,6 @@ namespace Wajeeh.Requests
         public int Status { get; set; }
         public string DeliveryCost { get; set; }
         public virtual ICollection<OfferPrice> OfferPrices { get; set; }
+        public virtual ICollection<TrackingTrip> TrackingTrips { get; set; }
     }
 }

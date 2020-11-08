@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Wajeeh.EntityFrameworkCore;
 
 namespace Wajeeh.Migrations
 {
     [DbContext(typeof(WajeehDbContext))]
-    partial class WajeehDbContextModelSnapshot : ModelSnapshot
+    [Migration("20201108075452_addTrackingTbl")]
+    partial class addTrackingTbl
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

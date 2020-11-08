@@ -6,6 +6,7 @@ using System.Text;
 using Wajeeh.Authorization.Users;
 using Wajeeh.Companies;
 using Wajeeh.DriverNotifications;
+using Wajeeh.TrackingTrips;
 
 namespace Wajeeh.Drivers
 {
@@ -39,5 +40,6 @@ namespace Wajeeh.Drivers
         public long? CompanyId { get; set; }
         public Company Company { get; set; }
         public bool OffDuty { get; set; }
+        //public ICollection<TrackingTrip> TrackingTrips { get; set; }
     }
 }

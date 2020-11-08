@@ -12,6 +12,7 @@ namespace Wajeeh.Coupons.Dto
     {
         public string Code { get; set; }
         public CouponTypes CouponType { get; set; }
+        public float Value { get; set; }
         public bool Active { get; set; }
     }
 }

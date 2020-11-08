@@ -3,15 +3,17 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Wajeeh.EntityFrameworkCore;
 
 namespace Wajeeh.Migrations
 {
     [DbContext(typeof(WajeehDbContext))]
-    partial class WajeehDbContextModelSnapshot : ModelSnapshot
+    [Migration("20201107175145_addvalueProp")]
+    partial class addvalueProp
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -2653,55 +2655,6 @@ namespace Wajeeh.Migrations
                     b.ToTable("Subcategories");
                 });
 
-            modelBuilder.Entity("Wajeeh.TrackingTrips.TrackingTrip", b =>
-                {
-                    b.Property<long>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("bigint")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<DateTime>("CreationTime")
-                        .HasColumnType("datetime2");
-
-                    b.Property<long?>("CreatorUserId")
-                        .HasColumnType("bigint");
-
-                    b.Property<long?>("DeleterUserId")
-                        .HasColumnType("bigint");
-
-                    b.Property<DateTime?>("DeletionTime")
-                        .HasColumnType("datetime2");
-
-                    b.Property<long>("DriverId")
-                        .HasColumnType("bigint");
-
-                    b.Property<bool>("IsDeleted")
-                        .HasColumnType("bit");
-
-                    b.Property<DateTime?>("LastModificationTime")
-                        .HasColumnType("datetime2");
-
-                    b.Property<long?>("LastModifierUserId")
-                        .HasColumnType("bigint");
-
-                    b.Property<string>("Latitude")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Longitude")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<long>("RequestId")
-                        .HasColumnType("bigint");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("DriverId");
-
-                    b.HasIndex("RequestId");
-
-                    b.ToTable("TrackingTrips");
-                });
-
             modelBuilder.Entity("Wajeeh.Vechiles.Vechile", b =>
                 {
                     b.Property<long>("Id")
@@ -3110,21 +3063,6 @@ namespace Wajeeh.Migrations
                     b.HasOne("Wajeeh.Categories.Category", "Category")
                         .WithMany("Subcategories")
                         .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-                });
-
-            modelBuilder.Entity("Wajeeh.TrackingTrips.TrackingTrip", b =>
-                {
-                    b.HasOne("Wajeeh.Drivers.Driver", "Driver")
-                        .WithMany()
-                        .HasForeignKey("DriverId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("Wajeeh.Requests.Request", "Request")
-                        .WithMany("TrackingTrips")
-                        .HasForeignKey("RequestId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

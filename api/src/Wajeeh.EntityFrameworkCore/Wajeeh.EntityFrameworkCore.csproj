@@ -22,6 +22,16 @@
     <Compile Remove="Migrations\20201106132317_modifyDateOfBirthGregorian.Designer.cs" />
     <Compile Remove="Migrations\20201106183152_addTrackingTripTpl_CouponsTbl.cs" />
     <Compile Remove="Migrations\20201106183152_addTrackingTripTpl_CouponsTbl.Designer.cs" />
+    <Compile Remove="Migrations\20201107175746_addCouponsTbl.cs" />
+    <Compile Remove="Migrations\20201107175746_addCouponsTbl.Designer.cs" />
+    <Compile Remove="Migrations\20201107185803_TrackingTbl.cs" />
+    <Compile Remove="Migrations\20201107185803_TrackingTbl.Designer.cs" />
+    <Compile Remove="Migrations\20201107194226_dd.cs" />
+    <Compile Remove="Migrations\20201107194226_dd.Designer.cs" />
+    <Compile Remove="Migrations\20201107194824_saa.cs" />
+    <Compile Remove="Migrations\20201107194824_saa.Designer.cs" />
+    <Compile Remove="Migrations\20201108075218_addTrackingTbl.cs" />
+    <Compile Remove="Migrations\20201108075218_addTrackingTbl.Designer.cs" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />

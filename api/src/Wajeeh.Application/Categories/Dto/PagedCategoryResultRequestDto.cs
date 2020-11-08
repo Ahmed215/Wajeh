@@ -8,5 +8,6 @@ namespace Wajeeh.Categories.Dto
     public class PagedCategoryResultRequestDto : PagedAndSortedResultRequestDto
     {
         public string Keyword { get; set; }
+
     }
 }
